@@ -8,3 +8,9 @@ and Overall polarity (positive/negative sentiment):
 - Polarity (Positive/Negative)
 
 
+**Dataset detail**
+![image](https://user-images.githubusercontent.com/93938450/167914985-f9fbde2f-c9be-40b0-91e1-766e8447bafc.png)
+
+
+
+![image](https://user-images.githubusercontent.com/93938450/167914892-a5130e8e-fc76-496d-90ab-625b2e3b423b.png)
