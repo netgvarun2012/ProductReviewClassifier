@@ -19,6 +19,6 @@ and Overall polarity (positive/negative sentiment):
 - First, data is loaded into Pandas dataframe.
 - Exploratory Data Analysis is done to find hidden patterns.
 - Text preprocessing is done which involves removal of stop words, lemmatization etc.
-- Finally, [DistilBERT](https://huggingface.co/docs/transformers/model_doc/distilbert) transformer model as a multi-label classifier.
+- Finally, training is done for 12 epochs using [DistilBERT](https://huggingface.co/docs/transformers/model_doc/distilbert) transformer model.
 
 ![image](https://user-images.githubusercontent.com/93938450/167914892-a5130e8e-fc76-496d-90ab-625b2e3b423b.png)
